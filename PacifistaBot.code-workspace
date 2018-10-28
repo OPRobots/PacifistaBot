@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "stl_files"
+		},
+		{
+			"path": "images"
 		}
 	],
 	"settings": {
