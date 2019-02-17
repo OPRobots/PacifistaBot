@@ -35,4 +35,10 @@
 
 <hr>
 
-##### PRONTO MÁS INFORACIÓN...
+## Tutorial de Montaje
+[![Tutorial de Montaje](./images/pacifista_tutorial_preview_img.jpg)](https://drive.google.com/file/d/10EezfLya-EukxTjCjV9P1Jr0ghWxqBgg/view)
+<p style="text-align:justify">Demostración del montaje de PacifistaBot paso a paso, buscando la mejor y más facil forma de montar el Kit. En cada paso se muestra el orden de montaje y los materiales necesarios. Además, el orden global de montaje está pensado para comenzar montando las partes más sencillas del robot para familiarizarse con los mecanismos que se repiten a lo largo del montaje partiendo desde una base simple.</p>
+
+<hr>
+
+##### PRONTO MÁS INFORMACIÓN...
